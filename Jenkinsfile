@@ -12,7 +12,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout the Git repository
-                git(url: 'https://github.com/mantragya/vanilasetup.git', branch: 'solution')
+                git(url: 'https://github.com/mantragya/vanilasetup.git', branch: 'devlop')
             }
         }
         

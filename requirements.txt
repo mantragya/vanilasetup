@@ -1,3 +1,5 @@
 flask
 Requests==2.31.0
 flake8
+pytest
+pytest-cov
